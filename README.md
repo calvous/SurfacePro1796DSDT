@@ -1,2 +1,4 @@
 # SurfacePro1796DSDT
-Nothing here
+Please get the files for the fakedev workaround here:
+https://github.com/calvous/Surface-Fakedev
+Thanks
